@@ -1,5 +1,5 @@
 # BeautyWebDev
-built with • https://getbootstrap.com. Getting Started Run the development server; • npm npm install npm@latest -g
+built with • https://getbootstrap.com. HTML & CSS . Getting Started Run the development server; • npm npm install npm@latest -g
 
 or view the projectApp directly on netlify; https://aquamarine-blancmange-8c9c5d.netlify.app .
 
