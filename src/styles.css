@@ -1,12 +1,65 @@
-h1 {
+.heading,
+p {
+    margin: 0 auto;
+    color: #252525;
 
-    text-align: center;
-    font-family: Avenir;
-    font-size: 64px;
 }
 
-h1,
-p,
-div {
+p {
+    color: rgba(37, 37, 37, 0.80);
+    width: 610px;
+    height: 108px;
+    font-family: Avenir;
+    font-size: 26px;
+    font-weight: 400;
+
+}
+
+.heading {
+    font-size: 64px;
+    font-weight: 600;
+    max-width: 610px;
+    font-family: 'Avenir', sans-serif;
+    height: 145px;
+}
+
+
+.bodyContainer {
+
+    padding: 64px;
+}
+
+
+
+a.explore {
+
+    background-color: black;
+    color: #FFF;
+    font-family: Avenir;
+    border: none;
+    padding: 18px 48px;
+    line-height: 18px;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 18px;
+    cursor: pointer;
+}
+
+img.erste,
+img.zweite,
+img.dritte,
+img.vierte,
+img.fünfte,
+img.sechste,
+img.siebte,
+img.achte {
+    width: 316px;
+    height: 288px;
+}
+
+footer {
+    font-family: monospace;
+    color: black;
     text-align: center;
+
 }
