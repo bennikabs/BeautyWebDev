@@ -55,7 +55,6 @@ footer {
     font-family: monospace;
     color: black;
     text-align: var(--mittel-Text-align);
-
 }
 
 @media (max-width:760px) {
