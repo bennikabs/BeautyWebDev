@@ -4,19 +4,20 @@
 
 .heading {
     font-size: 64px;
-    font-weight: 600;
-    max-width: 610px;
+    font-weight: 550;
+    max-width: 611px;
     font-family: 'Avenir', sans-serif;
-    height: 145px;
+    line-height: 1.2;
+
 }
 
 p {
     color: rgba(37, 37, 37, 0.80);
-    width: 610px;
-    height: 108px;
-    font-family: Avenir;
+    width: 594px;
+    font-family: 'Avenir', sans-serif;
     font-size: 26px;
     font-weight: 400;
+    margin-bottom: 24px;
 }
 
 .bodyContainer {
@@ -68,15 +69,19 @@ footer {
     .heading {
         font-size: 20px;
         height: 70px;
-        max-width: 200px;
-        padding: 10px;
+        max-width: 220px;
+        height: 40px;
+        padding: 0px;
+
     }
 
     p {
         font-size: 10px;
-        max-width: 300px;
-        height: 50px;
-        padding: 10px;
+        max-width: 250px;
+        padding-top: 16px;
+        padding-bottom: 16px;
+        margin: 0 !important;
+
     }
 
     .explore {
@@ -85,17 +90,20 @@ footer {
         font-size: 13px;
     }
 
-    div.row.pt-5.first {
-        margin-top: -35px;
-    }
+
 
     .bodyContainer {
         padding: 24px;
     }
 
     .container {
-        padding: 0px !important;
+        padding-top: 24px;
     }
+
+    div.first {
+        padding-top: 0px !important;
+    }
+
 
     img.erste,
     img.zweite,
